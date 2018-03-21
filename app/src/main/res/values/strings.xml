@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomAsyncTaskApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_launch_asynctask">Lanza AsyncTask</string>
+</resources>
